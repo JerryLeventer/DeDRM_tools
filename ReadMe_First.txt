@@ -1,6 +1,8 @@
 ﻿Welcome to the tools!
 =====================
 
+[Specify Month and Year of Publication]
+
 This ReadMe_First.txt is meant to give users a quick overview of what is available and how to get started. This document is part of the Tools v6.3.4 archive from Apprentice Alf's Blog: http://apprenticealf.wordpress.com/
 
 The is archive includes tools to remove DRM from:
